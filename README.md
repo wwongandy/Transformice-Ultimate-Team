@@ -1,6 +1,6 @@
 # Transformice Ultimate Team (TUT) 2020
 
-This is a web application based off of FIFA's Ultimate Team (FUT) where your goal is to build the best team (draft) possible from virtual cards. But rather than players from soccer, these are players from the mouse game [Transformice](https://www.transformice.com/).
+This is a web application based off of FIFA's Ultimate Team (FUT) where your goal is to build the best team (draft) possible from virtual cards. But rather than players from soccer, these are players from the mouse game [Transformice](https://www.transformice.com/) (TFM).
 
 ## Mechanics
 

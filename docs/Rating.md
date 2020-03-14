@@ -1,0 +1,1 @@
+# How Rating is Calculated

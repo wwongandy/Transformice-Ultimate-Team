@@ -18,5 +18,12 @@ Rating is aggregated from all the cards' individual `Rating` in the draft. There
 
 This game is currently a work in progress and is not deployed on any website. In order to play it, this web app must be built following the instructions below.
 
-`Work in Progress..`
-`Available soonTM..`
+*Currently a work in progress..*
+
+#### 1. git clone
+
+#### 2. p5.js download
+
+#### 3. p5.js usage
+
+#### 4. run

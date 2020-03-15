@@ -6,5 +6,11 @@ class Draft {
 
   constructor() {
 
-  }
-}
+    // All the cards in the game
+    this.cards = [
+      /**
+       * Card
+       */
+    ];
+  };
+};

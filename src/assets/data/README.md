@@ -1,6 +1,6 @@
 This directory contains all CSV files used for the main TUT code.
 
-#### cardStats.txt
+#### cardStats.csv
 
 These are all the virtual cards available for the game. The first row describes the TFM attributes of each column, and the following are all the card data.
 
